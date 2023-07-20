@@ -13,4 +13,4 @@ jobs:
       - name: Test mutiline
         run: |
           echo "First output"
-          echo "Second output
+          echo "Second output"
