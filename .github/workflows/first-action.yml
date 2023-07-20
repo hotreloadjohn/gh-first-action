@@ -10,3 +10,7 @@ jobs:
         run: echo "Hello there!"
       - name: Print GoodBye
         run: echo "goodbye.. see you again"
+      - name: Test mutiline
+        run: |
+          echo "First output"
+          echo "Second output
